@@ -1,0 +1,59 @@
+INFO 2024-04-11 09:19:45,501 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:19:45,680 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:20:24,888 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:20:25,066 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:20:51,232 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:20:51,407 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:21:26,599 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:21:26,778 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:21:41,903 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:21:42,079 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:22:12,254 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:22:12,449 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:22:26,576 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:22:26,760 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:23:15,053 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:23:24,223 basehttp 212 "GET /mainapp/?username=on_door&password=123456789%40 HTTP/1.1" 200 251
+INFO 2024-04-11 09:24:03,317 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:24:03,498 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:27:26,254 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:27:26,431 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:27:46,575 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:27:46,752 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:31:29,582 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:31:29,760 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:31:38,867 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:31:39,046 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:33:10,430 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/urls.py changed, reloading.
+INFO 2024-04-11 09:33:10,648 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:33:14,746 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:33:14,934 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:33:21,030 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:33:21,210 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:34:02,425 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:34:02,620 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:35:17,941 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:35:18,131 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:36:41,483 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:36:41,662 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:46:16,264 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:46:16,467 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:46:54,675 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:46:54,862 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:46:58,952 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:46:59,140 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:47:00,225 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:47:00,404 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:47:04,493 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:47:04,697 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:47:05,789 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:47:05,974 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:47:07,051 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:47:07,233 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:47:13,328 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:47:13,517 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:47:34,678 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:47:34,854 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 09:47:36,935 autoreload 266 /home/tech-radix-jagrati/Documents/My all project/project_for_logging/project_logging/mainapp/views.py changed, reloading.
+INFO 2024-04-11 09:47:37,110 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-11 10:05:05,443 autoreload 668 Watching for file changes with StatReloader
